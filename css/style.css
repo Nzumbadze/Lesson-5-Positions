@@ -1,0 +1,188 @@
+.inlineB {
+    display: inline-block;
+}
+
+.headContainer {
+    display: inline-block;
+}
+
+.headerNav {
+    display: inline-block;
+    font-family: helvetica;
+    font-size: 11;
+}
+
+.navButton {
+    margin-left: 26px;
+    font-family: 'Roboto', sans-serif;
+    color: #343638;
+}
+
+.navHome {
+    margin-left: 90px;
+    font-family: helvetica;
+    font-size: 11;
+}
+
+.logo {
+    color: #fa6980;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    margin-left: 20px;
+}
+
+.headerImg {
+    margin-left: 39px;
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    border-radius: 20px;
+}
+
+.Trending {
+    margin-top: 44px;
+}
+
+.trendingContainer {
+    /* width: 1160px; */
+    margin: 0 auto;
+}
+
+.firstCard {
+    position: relative;
+    display: inline-block;
+    width: 360px;
+    background-color: white;
+    border-radius: 10px;
+    }
+
+.firstCard:not(:first-child) {
+    margin-left: 40px;
+}
+
+.pictureTitle {
+    position: absolute;
+    top: 28px;
+    left: 40px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+
+.cardTitle {
+    margin-bottom: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.firstCardText {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+    width: 281px;
+    margin-left: 40px;
+    margin-top: 76px;
+}
+
+.clock {
+    margin-left: 40px;
+    width: 16px;
+    height: 16px;
+}
+
+.timeText {
+    margin-left: 40px;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+.imgRelative {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.bridgeImg {
+    width: 760px;
+    display: inline-block;
+
+}
+
+.happeningLeft {
+    width: 760px;
+    vertical-align: middle;
+}
+
+.leftText {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.leftTitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: #202124;
+    margin-top: 58px;
+    margin-bottom: 40px;
+}
+.happeningRight {
+    width: 360px;
+    vertical-align: top;    
+    margin-left: 40px;
+    
+}
+.rightPic {
+    width: 360px;
+    height: 210px;
+    
+}
+
+.rightPic:not(:first-child) {
+    margin-top: 102px;
+}
+footer {
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #a6adb4;
+    margin-top: 37px;
+}
+.footerLogo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: #ffffff;
+    vertical-align: top;
+    margin-right: 91px;
+}
+.footerNav {
+    margin-right: 95px;
+}
+.footerButton {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color:#cbd0d3;
+    line-height: 1.8;
+}
+.footerText {
+    vertical-align: top;
+}
+.imgContainer {
+    vertical-align: top;
+    margin-left: 164px;
+}
+
+.imgContainer a:not(:first-child) {
+    margin-left: 10px;
+}
